@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Lib2'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'a lib of one key login which is convenient for user.'
 
 # This description is used to generate tags and improve search results.
