@@ -1,0 +1,22 @@
+{
+  "name": "Lib2",
+  "version": "0.1.0",
+  "summary": "A short description of Lib2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/seabird2020/Lib2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "seabird2020": "yedongzan@126.com"
+  },
+  "source": {
+    "git": "https://github.com/seabird2020/Lib2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Lib2/Classes/**/*"
+}
